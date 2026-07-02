@@ -1,0 +1,1 @@
+import{j as a}from"./index-D40-CKr5.js";import{S as s}from"./star-B3Ci7tDv.js";function i({rating:e,size:r=12}){return a.jsx("div",{className:"flex items-center gap-0.5",children:[1,2,3,4,5].map(t=>a.jsx(s,{size:r,className:t<=Math.round(e)?"fill-amber-400 text-amber-400":"text-slate-200 fill-slate-200"},t))})}export{i as S};

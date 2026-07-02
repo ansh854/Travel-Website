@@ -13,12 +13,14 @@ import {
 import Button from "../ui/Button";
 
 const NAV_LINKS = [
+  const NAV_LINKS = [
+  { label: "Home", to: "/" },
   { label: "Flights", to: "/flights" },
   { label: "Hotels", to: "/hotels" },
   { label: "Holidays", to: "/holidays" },
   { label: "Trains", to: "/trains" },
   { label: "Buses", to: "/buses" },
-  { label: "Visa", to: "#" },
+];
 ];
 
 /**
