@@ -21,7 +21,7 @@ const NAV_LINKS = [
   { label: "Trains", to: "/trains" },
   { label: "Buses", to: "/buses" },
 ];
-];
+
 
 /**
  * Sticky transparent-to-solid navigation bar.
